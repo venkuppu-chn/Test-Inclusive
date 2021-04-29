@@ -12,3 +12,6 @@ sex
 faith
 master
 suicide
+groom
+bride
+wife beater

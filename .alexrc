@@ -1,0 +1,3 @@
+{
+  "deny": ["seagate.com", "CORVault", "PODS"]
+}

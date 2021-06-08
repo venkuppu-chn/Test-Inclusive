@@ -13,5 +13,7 @@ faith
 master
 suicide
 groom
-bride
 wife beater
+seagate.com
+CORVault
+PODS
